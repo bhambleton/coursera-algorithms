@@ -2,7 +2,7 @@
  *  Name:              Brian Hambleton
  *  Last modified:     27 September 2020
  *
- *  2-d tree implementation using TreeSet
+ *  2-d tree implementation
  *
  **************************************************************************** */
 
